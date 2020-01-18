@@ -1,6 +1,10 @@
 import React from 'react'
+// import Books from './components/Books'
+// import BookSearchBar from './components/BookSearchBar'
+// import SearchBooks from './components/SearchBooks'
+import AddBookBar from './components/AddBookBar'
 
-const Home = () => <div>Welcome to the DEV React starter!</div>
+const Home = () => <AddBookBar />
 
 
 export default Home
